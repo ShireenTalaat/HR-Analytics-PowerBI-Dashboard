@@ -39,7 +39,11 @@ The HR Analytics Power BI Dashboard leverages a star schema data model to integr
 ## Results & Impact
 
 This Power BI dashboard provides HR departments with a powerful tool for data-driven decision-making. It enables quick identification of critical HR trends, facilitates proactive talent management, and supports the development of effective retention strategies. By transforming complex HR data into clear, actionable insights, the project significantly enhances an organization's ability to optimize its human capital and improve overall business performance.
-
+![HR-Shireen1.jpg](https://github.com/ShireenTalaat/HR-Analytics-PowerBI-Dashboard/blob/main/HR-Shireen1.jpg)
+![HR-Shireen2.jpg](https://github.com/ShireenTalaat/HR-Analytics-PowerBI-Dashboard/blob/main/HR-Shireen2.jpg)
+![HR-Shireen3.jpg](https://github.com/ShireenTalaat/HR-Analytics-PowerBI-Dashboard/blob/main/HR-Shireen3.jpg)
+![HR-Shireen4.jpg](https://github.com/ShireenTalaat/HR-Analytics-PowerBI-Dashboard/blob/main/HR-Shireen4.jpg)
+![HR-Shireen5.jpg](https://github.com/ShireenTalaat/HR-Analytics-PowerBI-Dashboard/blob/main/HR-Shireen5.jpg)
 ## Future Improvements
 
 Future enhancements could include integrating additional data sources such as performance review data or training records to enrich the analysis. Implementing advanced analytics techniques, such as machine learning models for more accurate attrition prediction, could further enhance the dashboard's predictive capabilities. Exploring deployment options for the dashboard on Power BI Service would enable broader accessibility and collaboration within the organization.
